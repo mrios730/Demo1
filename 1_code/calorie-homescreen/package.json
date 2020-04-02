@@ -1,0 +1,33 @@
+{
+  "name": "calorie-homescreen",
+  "version": "0.0.0",
+  "description": "Navigating Between Screens or Activities Using React Navigation Library",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "latest",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "url": "latest",
+    "axios": "latest",
+    "request": "latest",
+    "unirest": "latest",
+    "react-select": "3.0.8",
+    "react-navigation": "latest",
+    "react-native-paper": "3.1.1",
+    "react-native-elements": "latest",
+    "react-navigation-stack": "latest",
+    "react-native-search-bar": "latest",
+    "react-native-input-spinner": "latest",
+    "react-native-safe-area-context": "0.6.0",
+    "react-native-dynamic-search-bar": "latest",
+    "react-native-searchable-dropdown": "latest",
+    "@freakycoder/react-native-helpers": "^0.1.0",
+    "react-native-dynamic-vector-icons": ">= x.x.x",
+    "@react-native-community/masked-view": "0.1.1"
+  }
+}
